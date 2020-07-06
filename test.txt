@@ -4,3 +4,4 @@ Date:   Mon Jul 6 21:29:53 2020 +0800
 git config --global user.name ""
 git config --global user.email "
 ssh-keygen -t rsa -C ""
+git init
