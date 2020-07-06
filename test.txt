@@ -4,3 +4,5 @@ Date:   Mon Jul 6 21:29:53 2020 +0800
 git init
 git config --global user.name ""
 git config --global user.email ""
+git branch
+git checkout .
