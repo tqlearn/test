@@ -6,3 +6,4 @@ git config --global user.name ""
 git config --global user.email ""
 git branch
 git checkout .
+ssh-keygen -t rsa -C ""
