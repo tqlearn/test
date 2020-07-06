@@ -1,5 +1,6 @@
 commit 8893d281fd585a1dcd9f866b84cb850adef0b989
 Author: tqlearn <979355402@qq.com>
 Date:   Mon Jul 6 21:29:53 2020 +0800
-git init
+git config --global user.name ""
 ssh-keygen -t rsa -C ""
+git init
